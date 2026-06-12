@@ -1,38 +1,43 @@
-# 👋 Olá, eu sou Pietro Gatas
+<h1 align="center">Olá, eu sou Pietro Gatas 👋</h1>
 
-<div align="center">
+<h3 align="center">
+🎓 Estudante | 💻 Desenvolvedor em Formação | 🚀 Apaixonado por Tecnologia
+</h3>
 
-### 🚀 Desenvolvedor apaixonado por tecnologia, inovação e criação de soluções digitais.
-
-</div>
-
----
-
-## 💫 Sobre mim
-
-Sou um profissional focado em desenvolvimento de software, sempre buscando aprender novas tecnologias e criar projetos que gerem impacto real.
-
-- 🌱 Aprendendo continuamente novas ferramentas e frameworks
-- 💻 Apaixonado por desenvolvimento e resolução de problemas
-- 🚀 Interesse em tecnologia, inovação e boas práticas de programação
-- 🎯 Focado em evolução constante e crescimento profissional
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!;Estudante+de+Informática+para+Internet;Sempre+aprendendo+novas+tecnologias;Transformando+ideias+em+código."/>
+</p>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 👨‍💻 Sobre Mim
+
+🎯 Meu nome é **Pietro Gatas**, tenho **17 anos** e atualmente estou cursando o **3º ano do Ensino Médio**.
+
+💻 Sou estudante do curso técnico de **Informática para Internet** na **ETEC de Guarulhos**, onde desenvolvo conhecimentos em programação, desenvolvimento web, banco de dados e tecnologias digitais.
+
+🚀 Estou constantemente buscando aprender novas tecnologias, criar projetos e evoluir minhas habilidades como desenvolvedor.
+
+---
+
+## 📚 Atualmente Estudando
+
+- 🌐 Desenvolvimento Web
+- 🎨 HTML, CSS e JavaScript
+- ⚡ Lógica de Programação
+- 🗄️ Banco de Dados
+- 🔧 Git e GitHub
+- 📱 Tecnologias para Internet
+
+---
+
+## 🛠️ Tecnologias
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 
 </div>
-
-> Personalize as tecnologias acima conforme seu stack.
 
 ---
 
@@ -40,19 +45,19 @@ Sou um profissional focado em desenvolvimento de software, sempre buscando apren
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pietrogatas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietrogatas&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔥 Sequência de Contribuições
+## 🔥 Streak de Contribuições
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pietrogatas&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -62,30 +67,50 @@ Sou um profissional focado em desenvolvimento de software, sempre buscando apren
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pietrogatas&theme=tokyonight&no-frame=true&margin-w=8"/>
 
 </div>
 
 ---
 
-## 🌐 Conecte-se comigo
+## 📈 Atividade
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seu-link)
-
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://instagram.com/seu-user)
-
-[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=google-chrome)](https://seusite.com)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pietrogatas&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
+## 🎯 Objetivos
+
+✔️ Aprimorar minhas habilidades em desenvolvimento web
+
+✔️ Construir projetos cada vez mais completos
+
+✔️ Contribuir para projetos open source
+
+✔️ Ingressar no mercado de tecnologia
+
+✔️ Evoluir para me tornar um desenvolvedor Full Stack
+
+---
+
+## 🌎 Onde me encontrar
+
+<p align="center">
+  <a href="https://github.com/pietrogatas">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 <div align="center">
 
-### ⭐ "Transformando ideias em código."
+### 🚀 "A tecnologia move o mundo, e eu quero fazer parte dessa transformação."
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blueviolet&style=flat)
+<img src="https://komarev.com/ghpvc/?username=pietrogatas&color=blueviolet&style=for-the-badge"/>
 
 </div>
